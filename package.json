@@ -1,0 +1,21 @@
+{
+  "name": "login-lecture",
+  "version": "1.0.0",
+  "description": "login-lecture #백엔드 맛보기 강의",
+  "main": "app.js",
+  "bin": {
+    "login-lecture": "bin/www.js"
+  },
+  "scripts": {
+    "start": "node ./bin/www.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["login", "signup"],
+  "author": "Udada",
+  "license": "ISC",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
